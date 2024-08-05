@@ -1,3 +1,12 @@
+Link to youtube video:										
+https://youtu.be/0Kgnkd9Rlbo
+
+Link to the google drive with the model and the tokenizers:
+https://drive.google.com/drive/folders/1NJAURrcoZ5rw_So78wPSl1dEzQo5wDx?usp=drive_link 
+
+Link to colab file
+https://colab.research.google.com/drive/1agr-gF9HT08xdMywfIhFNGWvc0HyAcTD?usp=sharing
+
 # Product Review Rating Predictor
 
 Welcome to the **Product Review Rating Predictor**! This application uses a fine-tuned BERT model to predict ratings for product reviews. The ratings are predicted on a scale from 1 to 5 based on the sentiment of the review text.
