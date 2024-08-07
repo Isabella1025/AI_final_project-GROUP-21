@@ -7,6 +7,8 @@ https://drive.google.com/drive/folders/1NJAURrcoZ5rw_So78wPSl1dEzQo5wDx?usp=driv
 Link to deployed app
 https://huggingface.co/spaces/Isabella1025/AI_final-group17
 
+Link to colab file:
+https://colab.research.google.com/drive/1agr-gF9HT08xdMywfIhFNGWvc0HyAcTD?usp=sharing
 
 # Product Review Rating Predictor
 
